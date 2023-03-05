@@ -62,7 +62,6 @@ class Bike extends Transport {
     }
 }
 
-// теперь работает
 let car = new Car("Машина", "12000", "lada", 4);
 let bike = new Bike("Мотоцикл", "60000", "Reno", 200)
 
